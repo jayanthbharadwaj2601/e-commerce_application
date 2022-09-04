@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Add New Product</h1>
+    <form action="add_product.php" method="POST">
+        <input type="text" name="product_name" class="text_box" placeholder="product name"><br> <br>
+        <input type="text" name="category" class="text_box" placeholder="category"><br> <br>
+        <input type="number" name="price" class="textbox" placeholder="price"><br> <br>
+        <input type="number" name="discount" class="textbox" placeholder="discount"><br> <br>
+        <input type="text" name="image_url" class="text_box" placeholder="image_url"><br><br>
+        <input type="submit" name="submit" class="buttons" value="add">
+    </form>
+    <h1>Update price/discount of a product</h1>
+    <form action="update_product.php" method="POST">
+        <input type="text" name="product_name" class="text_box" placeholder="product name"><br> <br>
+        <input type="number" name="price" class="textbox" placeholder="price"><br> <br>
+        <input type="number" name="discount" class="textbox" placeholder="discount"><br> <br>
+        <input type="submit" name="submit" class="buttons" value="update">
+    </form>
+</body>
+</html>

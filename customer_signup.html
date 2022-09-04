@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body
+        {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .p1
+        {
+            padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+        }
+        #container
+        {
+            position: relative;
+            top: 100px;
+        }
+
+
+/* CSS */
+.button-1 {
+  background-color: #EA4C89;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-1:hover,
+.button-1:focus {
+  background-color: #F082AC;
+}
+    </style>
+</head>
+<body>
+    <div id="container" align="center">
+    <form action="signup.php" method="POST">
+        <h2>Username</h2>
+        <input type="text" name="username" class="p1">
+        <h2>Password</h2>
+        <input type="password" name="password" class="p1"><br><br>
+        <input type="submit" name="submit" class="button-1" value="signup">
+    </form>
+    </div>
+</body>
+</html>

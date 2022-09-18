@@ -1,17 +1,17 @@
 # e-commerce_application
-An e-commerce application with two types of users (customer and admin)
-<b> Landing Page</b>
-<img width="960" alt="landing_p" src="https://user-images.githubusercontent.com/73576290/190902886-f02d0799-54ba-4509-b0d2-fe3bf139973b.PNG">
-<b> Login Page</b>
-<img width="959" alt="login_p" src="https://user-images.githubusercontent.com/73576290/190902812-56b5d2c1-dffc-4195-b93f-f75833d6d122.PNG">
-<b>Customer homepage Products List</b>
-<img width="953" alt="products1" src="https://user-images.githubusercontent.com/73576290/190866714-64dacf29-4573-48d0-89d3-fea1dc956afb.PNG">
-<img width="959" alt="products2" src="https://user-images.githubusercontent.com/73576290/190866725-bbb8489e-93f1-40b8-b9dc-14a4072686ea.PNG">
-<b>Customer homepage Order Status List</b>
-<img width="957" alt="status of customer's orders" src="https://user-images.githubusercontent.com/73576290/190866711-9221c6dd-4822-46a2-9474-4098338a9fc8.PNG">
-<b>Admin homepage Order Execution Table</b>
-<img width="945" alt="admin order execution table" src="https://user-images.githubusercontent.com/73576290/190866748-c7bc83b8-118f-4ac6-954f-f2c1e3087248.PNG">
-<b>Admin homepage Product Addition</b>
-<img width="944" alt="admin homepage1" src="https://user-images.githubusercontent.com/73576290/190866757-32033f7a-4a9e-489b-b2ac-6910d9c6143b.PNG">
-<b>Admin homepage Product Updation</b>
-<img width="944" alt="admin homepage2" src="https://user-images.githubusercontent.com/73576290/190866761-1d740aff-0bc0-4d8c-a76a-35a0aa171004.PNG">
+An e-commerce application with two types of users (customer and admin)<br>
+<b> Landing Page</b><br>
+<img width="960" alt="landing_p" src="https://user-images.githubusercontent.com/73576290/190902886-f02d0799-54ba-4509-b0d2-fe3bf139973b.PNG"><br>
+<b> Login Page</b><br>
+<img width="959" alt="login_p" src="https://user-images.githubusercontent.com/73576290/190902812-56b5d2c1-dffc-4195-b93f-f75833d6d122.PNG"><br>
+<b>Customer homepage Products List</b><br>
+<img width="953" alt="products1" src="https://user-images.githubusercontent.com/73576290/190866714-64dacf29-4573-48d0-89d3-fea1dc956afb.PNG"><br>
+<img width="959" alt="products2" src="https://user-images.githubusercontent.com/73576290/190866725-bbb8489e-93f1-40b8-b9dc-14a4072686ea.PNG"><br>
+<b>Customer homepage Order Status List</b><br>
+<img width="957" alt="status of customer's orders" src="https://user-images.githubusercontent.com/73576290/190866711-9221c6dd-4822-46a2-9474-4098338a9fc8.PNG"><br>
+<b>Admin homepage Order Execution Table</b><br>
+<img width="945" alt="admin order execution table" src="https://user-images.githubusercontent.com/73576290/190866748-c7bc83b8-118f-4ac6-954f-f2c1e3087248.PNG"><br>
+<b>Admin homepage Product Addition</b><br>
+<img width="944" alt="admin homepage1" src="https://user-images.githubusercontent.com/73576290/190866757-32033f7a-4a9e-489b-b2ac-6910d9c6143b.PNG"><br>
+<b>Admin homepage Product Updation</b><br>
+<img width="944" alt="admin homepage2" src="https://user-images.githubusercontent.com/73576290/190866761-1d740aff-0bc0-4d8c-a76a-35a0aa171004.PNG"><br>

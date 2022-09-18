@@ -1,7 +1,7 @@
 # e-commerce_application
 An e-commerce application with two types of users (customer and admin)
 <img width="867" alt="landing_page" src="https://user-images.githubusercontent.com/73576290/190866678-49f3548c-8e13-40e7-9e5a-422e6599e975.PNG">
-<img width="546" alt="login_page" src="https://user-images.githubusercontent.com/73576290/190866697-b18d6663-e3ae-41f5-bf9d-94fbdb5a85bd.PNG">
+<img width="959" alt="login_p" src="https://user-images.githubusercontent.com/73576290/190902812-56b5d2c1-dffc-4195-b93f-f75833d6d122.PNG">
 <img width="953" alt="products1" src="https://user-images.githubusercontent.com/73576290/190866714-64dacf29-4573-48d0-89d3-fea1dc956afb.PNG">
 <img width="959" alt="products2" src="https://user-images.githubusercontent.com/73576290/190866725-bbb8489e-93f1-40b8-b9dc-14a4072686ea.PNG">
 <img width="957" alt="status of customer's orders" src="https://user-images.githubusercontent.com/73576290/190866711-9221c6dd-4822-46a2-9474-4098338a9fc8.PNG">

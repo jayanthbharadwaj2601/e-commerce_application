@@ -1,5 +1,7 @@
 # e-commerce_application
 An e-commerce application with two types of users (customer and admin)<br>
+<b> Attributions</b>
+<b> CSS buttons and Text boxes: GeeksForGeeks and other sources </b>
 <b> Landing Page</b><br>
 <img width="960" alt="landing_p" src="https://user-images.githubusercontent.com/73576290/190902886-f02d0799-54ba-4509-b0d2-fe3bf139973b.PNG"><br>
 <b> Login Page</b><br>
